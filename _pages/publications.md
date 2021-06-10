@@ -9,5 +9,4 @@ author_profile: true
 Korinna Lindemann and Lukas F. Stoetzer. The effect of televised candidate debates on the support for political parties. *[Electoral Studies](https://www.sciencedirect.com/science/article/abs/pii/S0261379420301220)*, 9, 102243, 2021.
 
 
-You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=_bxzpV4AAAAJ&hl=de}}">my Google Scholar profile</a>.</u>
 
