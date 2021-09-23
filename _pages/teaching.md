@@ -8,7 +8,8 @@ author_profile: true
 
 
 ### Postgraduate
-* **Tutorial**: Statistics I: Descriptives, Inference and Regression. Mark Kayser Hertie School. Fall 2020.
+* **Tutorial**: Statistics I: Descriptives, Inference and Regression. Svanhildur Thorvaldsdottir. Hertie School. Fall 2021.
+* **Tutorial**: Statistics I: Descriptives, Inference and Regression. Mark A. Kayser. Hertie School. Fall 2020.
 * **Workshop**: R and RStudio Cloud. A HeRtie Basic Review. Hertie School. Fall 2020.
 
 ### Undergraduate
