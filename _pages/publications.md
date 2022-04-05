@@ -19,7 +19,7 @@ regimes. I test these expectations on the German case relying on the GSOEP and V
 
 #### Minority policies and outgroup hostility: Evidence from face veil bans (with [António Valentim](https://antoniovalentim.github.io/))
 
-*Draft available upon request*
+<sub>*Draft available upon request*</sub>
 
 <sub>*Abstract*: Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of ethnic minorities. While most recent research on integration is focused on the consequences of intergroup contact, less is known about how voters react to these policies. In this study, we address this gap by studying the effect of policies targeting ethnic minorities on outgroup hostility. We argue these policies are means by which political actors define who is entitled to be a member of a polity. We test this argument by studying the effect of face veil ban in the Swiss canton of Ticino on anti-migration voting and hate crimes and find the policy increased outgroup hostility. Using panel data at the individual level, we find some support for our argument. This study has implications for how policies impact the attitudes and behaviours of voters towards minorities as well as for the cohesiveness of multicultural societies.</sub>
 
