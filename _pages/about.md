@@ -12,7 +12,7 @@ Hi, I am a PhD Candidate in Political Science at the Research Training Group [DY
 
 My research interests focus on migration, political behaviour, representation and quantitative methods. In my dissertation, which is supervised by [Mark A. Kayser](http://mark-kayser.com/), I work on the political behaviour and representation of immigrants in the host country. I am particularly interested how characteristics of the regime in the country of origin influence behaviour in the host country.
 
-Feel free to contact me in case you would like to have a chat or for any other inquiries at [k.lindemann@phd.hertie-school.org](mailto:k.lindemann@phd.hertie-school.org)!
+Feel free to contact me in case you would like to have a chat or for any other inquiries at [lindemann@hertie-school.org](mailto:lindemann@hertie-school.org)!
   
   
   
