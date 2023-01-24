@@ -20,6 +20,7 @@ country.</sub>
 
 
 - #### Redistribution Preferences in an Experimental Online Game
+
 <sub> *Abstract*: How do highly redistributive regimes affect redistribution preferences? Evidence from literature on political socialisation and authoritarian legacies shows that in new democracies, there is evidence for a bias against the ideological spectrum connected to the former authoritarian ideology. Direct or indirect experiences that can be clearly tied to a particular political ideology can, therefore, create negative associations with this ideological spectrum among the public. Can they impact particular policy positions as well? Using experimental evidence, I assess the effect of highly redistributive regimes on support for redistribution preferences. I also test how benefiting or losing from highly redistributive regimes impact redistribution preferences with attitudinal and behavioural components. Results suggest that the effects of the experimental settings depend on the specific redistribution outcome examined. When participants are no longer benefiting from redistribution, they are less likely to favour it. On the other hand, having worse as compared to better opponents only matters if participants are actually benefitting/losing from redistribution. By conducting this experimental online game, I do not only contribute to the theoretical understanding of institutions and redistribution preferences, but also propose a combined attitudinal and behavioural approach to experimentally measure preferences.</sub>
 
 ### Work in Progress
