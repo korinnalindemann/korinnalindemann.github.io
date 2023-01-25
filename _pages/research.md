@@ -25,7 +25,7 @@ country.</sub>
 
 ### Work in Progress
 - #### What Does Left and Right Even Mean? Political Socialisation and the Dimensionality of the Political Left and Right
-- #### The Authoritarian Green Penalty: Socialisation in Authoritarian Regimes and Party Support
+- #### The Authoritarian Green Penalty: Socialisation and Party Support
 
 
 
