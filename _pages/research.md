@@ -8,6 +8,7 @@ author_profile: true
 ### Working Papers
 - #### Lingering Memories of the Past: The Electoral Behaviour of Immigrants Socialised in Authoritarian Regimes
 <sub>*Under Review*</sub>
+
 <sub>*Draft available upon request*</sub>
 
 <sub>*Abstract*: What impact does the regime type during political socialisation in the country of origin have on the political behaviour of immigrants in the host country? The political past of immigrants is often overlooked when assessing their political behaviour, although the political experiences made can differ tremendously. In this article, I build on political socialisation research and argue that immigrants socialised in left-wing authoritarian regimes will show
