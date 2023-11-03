@@ -13,5 +13,6 @@ author_profile: true
 * **Workshop**: R and RStudio Cloud. A HeRtie Basic Review. Hertie School. Fall 2020.
 
 ### Undergraduate
+* **Seminar**: Migration and Political Behaviour. University of Mannheim. Fall 2023.
 * **Tutorial**: Applied Methods of Political Science. Thomas Milic. IPZ, University of Zurich. Spring 2020, 2019.
 * **Tutorial**: Empirical Methods. Benjamin Fretwurst. IKMZ, University of Zurich. Spring 2016.
