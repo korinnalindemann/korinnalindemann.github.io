@@ -7,12 +7,11 @@ author_profile: true
 
 ### Working Papers
 #### [Lingering Memories of the Past? The Ideological Behaviour of Immigrants Socialised in Authoritarian Regimes](https://doi.org/10.31219/osf.io/vyfcm)
-<sub>*Under review*</sub>
 
 <sub>*Abstract*: How does the political socialisation in authoritarian regimes affect the political behaviour of immigrants in democracies? The political past of immigrants is often overlooked when assessing their behaviour, although experiences with politics can differ substantially. In this paper, I argue that immigrants socialised in left-wing authoritarian regimes avoid the political left and support right of centre parties, while immigrants socialised in right-wing authoritarian regimes do not translate anti-right biases into host country politics. Using the German Socio-Economic Panel and V-Dem while applying Coarsened Exact Matching (CEM), I find a bias against the political left for immigrants socialised in left-wing authoritarian regimes compared to their democratic counterparts. Immigrants socialised in right-wing authoritarian regimes also express a bias against the political left, but only if the country has a longer communist past, otherwise no substantial differences appear. These results have important implications for how authoritarianism shapes political behaviour in a different context.</sub>
 
 #### When Policies Divide: The Effects of Face Veil Bans on Public Opinion (with [António Valentim](https://antoniovalentim.github.io/))
-<sub>*Under review. Draft available upon request*</sub>
+<sub>*Draft available upon request*</sub>
 
 <sub>*Abstract*: Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of minorities. While most recent research on integration has focused on the consequences of intergroup contact, less is known about how voters react to these policies. We address this gap by studying how policies targeting ethnic minorities influence the electorate’s attitudes and behaviour. We argue that policies can signal who is considered a member of a polity and, thus, normalise more extreme antiimmigration and - integration positions. Studying the face veil ban in Ticino, Switzerland, we find that the adoption of the policy increased anti-migration and - integration voting. Using individual-level data, we find that the ban also increased negative attitudes towards Islam - the target of the policy. This has implications for how policies affect attitudes and behaviours towards minorities as well as for the cohesiveness of multicultural societies. </sub>
 
@@ -30,7 +29,7 @@ policy preferences that are related to the authoritarian ideology. Hence, I hypo
 and electoral potential of specific immigrant groups in the host country.</sub>
 
 ### Work in Progress
-#### The Authoritarian Green Penalty: Socialisation and Party Support
+#### The Cost of Ideological Learning: How Migrants Penalise Green Parties
 
 
 
