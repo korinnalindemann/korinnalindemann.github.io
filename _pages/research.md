@@ -29,7 +29,7 @@ policy preferences that are related to the authoritarian ideology. Hence, I hypo
 and electoral potential of specific immigrant groups in the host country.</sub>
 
 ### Work in Progress
-#### The Cost of Ideological Learning: How Migrants Penalise Green Parties
+#### The Cost of Ideological Learning: How Migrants Penalise Green Parties (with [António Valentim](https://antoniovalentim.github.io/))
 
 
 
