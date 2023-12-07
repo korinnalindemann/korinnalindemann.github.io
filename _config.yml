@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Korinna Lindemann"
   avatar           : "Korinna_Bild.png"
-  bio              : "PhD Candidate in Political Science at DYNAMICS & Hertie School."
+  bio              : "Research Fellow, MZES, University of Mannheim"
   location         : "Berlin, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?hl=de&user=_bxzpV4AAAAJ"
-  email            :  "k.lindemann@phd.hertie-school.org"
+  email            :  "korinna.lindemann[at]uni-mannheim.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
