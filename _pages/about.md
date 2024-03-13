@@ -12,7 +12,7 @@ Hi, I am a Research Fellow at the [MZES, University of Mannheim](https://www.mze
 
 My research interests focus on migration, (comparative) political behaviour, causal inference and experimental methods. In my dissertation, which was supervised by [Mark A. Kayser](http://mark-kayser.com/), I have worked mainly on the determinants of political behaviour of immigrants, where I am particularly interested in how characteristics of the regime in the country of origin influence behaviour in the host country. I am also interested in socialisation processes in authoritarian regimes and their effects on attitudes and behaviour more generally. 
 
-Feel free to contact me if you would like to connect and talk about projects, common interests or anything else at [korinna.lindemann[at]uni-mannheim.de](mailto:korinna.lindemann@uni-mannheim.de)! 
+Feel free to contact me if you would like to connect and talk about projects, common interests or anything else at [korinna.lindemann@uni-mannheim.de](mailto:korinna.lindemann@uni-mannheim.de)! 
   
   
   
