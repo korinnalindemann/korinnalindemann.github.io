@@ -7,7 +7,7 @@ author_profile: true
 
 ### Publications
 <ul>
-  <li>The effect of televised candidate debates on the support for political parties. (with [Lukas F. Stoetzer](https://www.lukas-stoetzer.org/))<i>Electoral Studies</i>(2021)</li>
+  <li>The effect of televised candidate debates on the support for political parties. (with<a href="https://www.lukas-stoetzer.org/"> Lukas F. Stoetzer<a/> <i>Electoral Studies</i> (2021)</li>
 
 </ul>
 
