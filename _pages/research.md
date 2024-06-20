@@ -7,11 +7,11 @@ author_profile: true
 
 ### Publications
 <ul>
-  <li>The effect of televised candidate debates on the support for political parties. (with [Lukas F. Stoetzer](https://www.lukas-stoetzer.org/)) *Electoral Studies* (2021)</li>
+  <li>The effect of televised candidate debates on the support for political parties. (with [Lukas F. Stoetzer](https://www.lukas-stoetzer.org/))<i>Electoral Studies</i>(2021)</li>
 
 </ul>
 
-<button class="astext">hello, world</button>
+
 
 ### Working Papers
 #### [Lingering Memories of the Past? The Ideological Behaviour of Immigrants Socialised in Authoritarian Regimes](https://doi.org/10.31219/osf.io/vyfcm)
