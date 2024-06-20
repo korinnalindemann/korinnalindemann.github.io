@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ### Publications
-#### - [The effect of televised candidate debates on the support for political parties](https://doi.org/10.1016/j.electstud.2020.102243) (with [Lukas F. Stoetzer](https://www.lukas-stoetzer.org/))
-<sub> *Electoral Studies* (2021) </sub>
+#### - [The effect of televised candidate debates on the support for political parties](https://doi.org/10.1016/j.electstud.2020.102243) (with [Lukas F. Stoetzer](https://www.lukas-stoetzer.org/)) in *Electoral Studies* (2021) 
 
 <sub>*Abstract*: During campaigns for legislative elections, a large portion of the general public follows televised debates between the front-running candidates. How can the candidates use the public interest in the debates to increase the support for their party? In this article, we argue that especially challenger candidates can improve the public perception of their valence qualities, such as personal integrity, leadership, and competence, and can - as a result - raise the support of their party. We expect that the perceived policy stances of the candidates matter less. Building on televised debate experiments during the German Federal Elections of 2009 and 2013, we analyse the effect of the debates on party vote and in how far this relationship is mediated by changes in valence and policy evaluations of the candidates. Results show that changes of candidate valence, but not changes in policy perceptions, of the social-democratic front-running candidates mediate the vote intention for the party. Respondents who perceived the candidates more competent, empathetic and have integrity as a result of the debate are more likely to vote for the candidate's party. Our analysis further reveals, however, that this valence effect is not long-lasting and does not carry-over to vote intention briefly before the election.</sub>
 
