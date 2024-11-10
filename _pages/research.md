@@ -47,7 +47,7 @@ author_profile: true
   <li> 
      Communism and Redistribution Preferences: Evidence from an Experimental Online Game  
     <details >
-       <summary><small><i>Abstract</i></small> <br><i>Draft available upon request</i></sub></summary>
+          <summary><small>Abstract</small> <br><sub><i>Draft available upon request</i></sub></summary>
       <sub> Under what circumstances do negative portrayals of communism lead to a backlash against redistribution? Building on literature of authoritarian legacies, I suggest that negatively depicting an authoritarian regime can affect
 policy preferences that are related to the authoritarian ideology. Hence, I hypothesise that priming participants with negative statements on the German Democratic Republic (GDR) should lower their support for redistribution, particularly if they are subject to redistribution. Employing a novel experimental game in Germany, I find that the negative primes of the GDR do, however, not generally decrease support for redistribution and their effect is also not conditioned on experiencing high levels of redistribution. Exploratory analyses reveal, however, that the effect of the prime was concealed. Priming participants on the GDR lowers support for redistribution only among participants who were outperformed, but not among those who were outperforming their opponents in the games. This study has not only implications for the field of authoritarian legacies and redistribution preferences, but also provides a novel attitudinal and behavioural approach to experimentally measure preferences.
       </sub>
@@ -57,7 +57,7 @@ policy preferences that are related to the authoritarian ideology. Hence, I hypo
   <li> 
     When Policies Divide: The Effects of Face Veil Bans on Public Opinion (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
     <details >
-       <summary><small><i>Abstract</i></small> <br><sub><i>Draft available upon request</i></sub></summary>
+       <summary><small>Abstract</small> <br><sub><i>Draft available upon request</i></sub></summary>
       <sub>Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of minorities. While most recent research on integration has focused on the consequences of intergroup contact, less is known about how voters react to these policies. We address this gap by studying how policies targeting ethnic minorities influence the electorate’s attitudes and behaviour. We argue that policies can signal who is considered a member of a polity and, thus, normalise more extreme antiimmigration and - integration positions. Studying the face veil ban in Ticino, Switzerland, we find that the adoption of the policy increased anti-migration and - integration voting. Using individual-level data, we find that the ban also increased negative attitudes towards Islam - the target of the policy. This has implications for how policies affect attitudes and behaviours towards minorities as well as for the cohesiveness of multicultural societies. 
       </sub>
     </details>
@@ -66,7 +66,7 @@ policy preferences that are related to the authoritarian ideology. Hence, I hypo
   <li> 
     The Paradox of Progressive Politics: Immigrant Support for Green Parties (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
     <details >
-     <summary><small><i>Abstract</i></small></summary>
+     <summary><small>Abstract</small></summary>
       <sub>
         Progressive parties often hold pro-immigration stances while struggling to gather electoral support from immigrant voters. Why is that? We study the behaviour of migrants and their support for a progressive party family: Green parties. We find that, when compared to immigrants from established democracies, immigrants from (post-) authoritarian contexts are less likely to support Green parties across Western Europe. We suggest that these patterns are driven by socialisation: As the politics of (post-) authoritarian contexts revolve less around green issues, environmental politics and policies are less salient for those who were socialised there, which makes them less likely to support these parties post-immigration. We test this argument using entropy balancing on cross-national surveys in Europe. We document this \textit{green paradox} and provide evidence suggesting that socialisation in (post-) authoritarian regimes focuses less on environmental issues. Our results have important implications for our understanding of how cultural norms travel across different political contexts and of the socialisation effects of political institutions.
       </sub>
