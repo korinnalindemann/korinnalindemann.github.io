@@ -29,7 +29,7 @@ author_profile: true
    <a href="https://doi.org/10.31219/osf.io/vyfcm"> Lingering Memories of the Past? The Ideological Behaviour of Immigrants Socialised in Authoritarian Regimes</a> 
 
   <details >
- <summary><small>Abstract</small><br><sub>Under review</br></sub></summary>
+ <summary><small>Abstract</small><br><sub>Under review</sub></summary>
   <sub>How does the political socialisation in authoritarian regimes affect the political behaviour of immigrants in democracies? The political past of immigrants is often overlooked when assessing their behaviour, although experiences with politics can differ substantially. In this paper, I argue that immigrants socialised in left-wing authoritarian regimes avoid the political left and support right of centre parties, while immigrants socialised in right-wing authoritarian regimes do not translate anti-right biases into host country politics. Using the German Socio-Economic Panel and V-Dem while applying Coarsened Exact Matching (CEM), I find a bias against the political left for immigrants socialised in left-wing authoritarian regimes compared to their democratic counterparts. Immigrants socialised in right-wing authoritarian regimes also express a bias against the political left, but only if the country has a longer communist past, otherwise no substantial differences appear. These results have important implications for how authoritarianism shapes political behaviour in a different context.</sub> 
 </details></li>
 
