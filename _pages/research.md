@@ -80,4 +80,15 @@ policy preferences that are related to the authoritarian ideology. Hence, I hypo
   Upward Social Mobility and the Democratic Engagement of Second-Generation Migrants (with <a href="https://www.ipz.uzh.ch/en/people/employees/isrbin.html"> Iva Srbinovska</a>)
 
 </li>
+
+<li>
+  Irregular immigration and support for the reintroduction of national border controls: Evidence from Germany (with <a href="https://lucas-schramm.eu/"> Lucas Schramm</a>)
+
+</li>
+
+<li>
+ Misperceptions of Immigration Policies: Bias, Information, and Implications
+
+</li>
+
 </ul>
