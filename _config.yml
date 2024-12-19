@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Korinna Lindemann"
   avatar           : "Korinna_Bild.png"
-  bio              : "Post-Doctoral Research Fellow"
+  bio              : "Post-Doctoral Research Fellow, MZES, University of Mannheim"
   location         : "A5,6, 68159 Mannheim, Germany"
-  employer         : "MZES, University of Mannheim"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?hl=de&user=_bxzpV4AAAAJ"
   email            :  "korinna.lindemann@uni-mannheim.de"
