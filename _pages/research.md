@@ -46,7 +46,7 @@ author_profile: true
  <li> 
     The Paradox of Progressive Politics: Immigrant Support for Green Parties (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
     <details >
-     <summary><small>Abstract</small> <br><sub>Submmitted for review, <i>Draft available upon request</i></sub></summary>
+     <summary><small>Abstract</small> <br><sub>Submitted for review, <i>Draft available upon request</i></sub></summary>
       <sub> Progressive parties often advocate pro-immigration policies but do not attract equal support from all immigrant groups. Why is this the case? This study examines immigrant behavior and their support for Green parties, a key progressive party family in Western Europe. Our findings reveal that immigrants from established democracies are more likely to support Green parties compared to those from (post-)authoritarian regimes. We attribute this disparity to socialization: Individuals from established democracies, where post-materialist values and environmental politics are more prominent, are more attuned to green issues. This heightened salience influences their political preferences after migration. Using entropy balancing on cross-national European surveys, we identify such a Green support gap and provide evidence for our proposed mechanism. These results inform debates on how cultural norms travel across political contexts and the socialization effects of political institutions. </sub>
     </details>
   </li>
@@ -54,8 +54,8 @@ author_profile: true
     <li> 
     When Policies Divide: The Effects of Face Veil Bans on Public Opinion (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
     <details >
-         <summary><small>Abstract</small> <br><sub><i>Draft available upon request</i></sub></summary>
-      <sub> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of minorities. While most recent research on integration has focused on the consequences of intergroup contact, less is known about how voters react to these policies. We address this gap by studying how policies targeting ethnic minorities influence the electorate’s attitudes and behaviour. We argue that policies can signal who is considered a member of a polity and, thus, normalise more extreme antiimmigration and - integration positions. Studying the face veil ban in Ticino, Switzerland, we find that the adoption of the policy increased anti-migration and - integration voting. Using individual-level data, we find that the ban also increased negative attitudes towards Islam - the target of the policy. This has implications for how policies affect attitudes and behaviours towards minorities as well as for the cohesiveness of multicultural societies.</sub>
+  <summary><small>Abstract</small> <br><sub><i>Draft available upon request</i></sub></summary>
+      <sub> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of minorities. While most recent research on integration has focused on the consequences of intergroup contact, less is known about how voters react to these policies. We address this gap by studying how policies targeting ethnic minorities influence the electorate’s attitudes and behaviour. We argue that policies can signal who is considered a member of a polity and, thus, normalise more extreme antiimmigration and - integration positions. Studying the face veil ban in Ticino, Switzerland, we find that the adoption of the policy increased anti-migration and - integration voting. Using individual-level data, we find that the ban also increased negative attitudes towards Islam - the target of the policy. This has implications for how policies affect attitudes and behaviours towards minorities as well as for the cohesiveness of multicultural societies. </sub>
     </details>
   </li>
 
@@ -68,10 +68,6 @@ policy preferences that are related to the authoritarian ideology. Hence, I hypo
       </sub>
     </details>
   </li>
-
-
-
-
 </ul>
 
 ### In Progress (Selected)
