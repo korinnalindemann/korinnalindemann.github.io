@@ -51,7 +51,7 @@ author_profile: true
     </details>
   </li>
 
-    <li> 
+  <li> 
     When Policies Divide: The Effects of Face Veil Bans on Public Opinion (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
     <details >
   <summary><small>Abstract</small> <br><sub><i>Draft available upon request</i></sub></summary>
