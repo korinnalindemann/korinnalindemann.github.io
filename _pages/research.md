@@ -25,6 +25,16 @@ author_profile: true
 
 ### Working Papers
 <ul>
+
+    <li> 
+    What is my Opinion? Immigrants, (Post-)Authoritarianism and Ideological Positioning 
+    <details >
+      <summary><small>Abstract</small> <br><sub>R&R, <i>Draft available upon request</i></sub></summary>
+      <sub> Pre-migration experiences with political regimes differ substantially among immigrants. However, surprisingly little is known about the extent to which these experiencing matter in structuring the stance of immigrants. Building on research of new democracies and political socialisation, I argue that (post-)authoritarian as opposed to established democratic socialisation lowers the degree to which positions are identified on abstract ideological issues, but less for specific policy items. Leveraging data from the European Social Survey and V-Dem, I test this argument by studying first-generation immigrants from (former) authoritarian and established democratic regimes, as well as nonimmigrants in thirteen European democracies. Employing exact matching as a pre-processing method, I find that immigrants from (post-)authoritarian regimes are less likely to identify their position on abstract ideological issues than non-immigrants, while differences are substantially small for specific policy items, which seems to be driven by lower political abilities and interest. Immigrants from established democracies map similarly to non-immigrants, but not concerning party identification. This study has important implications for the long-lasting effects of authoritarianism, but also for the representation and electoral potential of specific immigrant groups in the host country.
+      </sub>
+    </details>
+  </li>
+  
   <li> 
    <a href="https://doi.org/10.31219/osf.io/vyfcm"> Lingering Memories of the Past? The Ideological Behaviour of Immigrants Socialised in Authoritarian Regimes</a> 
 
@@ -34,14 +44,7 @@ author_profile: true
 </details></li>
 
 
-  <li> 
-    What is my Opinion? Immigrants, (Post-)Authoritarianism and Ideological Positioning 
-    <details >
-      <summary><small>Abstract</small> <br><sub>R&R, <i>Draft available upon request</i></sub></summary>
-      <sub> Pre-migration experiences with political regimes differ substantially among immigrants. However, surprisingly little is known about the extent to which these experiencing matter in structuring the stance of immigrants. Building on research of new democracies and political socialisation, I argue that (post-)authoritarian as opposed to established democratic socialisation lowers the degree to which positions are identified on abstract ideological issues, but less for specific policy items. Leveraging data from the European Social Survey and V-Dem, I test this argument by studying first-generation immigrants from (former) authoritarian and established democratic regimes, as well as nonimmigrants in thirteen European democracies. Employing exact matching as a pre-processing method, I find that immigrants from (post-)authoritarian regimes are less likely to identify their position on abstract ideological issues than non-immigrants, while differences are substantially small for specific policy items, which seems to be driven by lower political abilities and interest. Immigrants from established democracies map similarly to non-immigrants, but not concerning party identification. This study has important implications for the long-lasting effects of authoritarianism, but also for the representation and electoral potential of specific immigrant groups in the host country.
-      </sub>
-    </details>
-  </li>
+
 
  <li> 
     The Paradox of Progressive Politics: Immigrant Support for Green Parties (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
