@@ -23,12 +23,12 @@ author_profile: true
 
 
 
-### Working Papers
+### Working Papers (Drafts available upon request)
 <ul>
   <li> 
     What is my Opinion? Immigrants, (Post-)Authoritarianism and Ideological Positioning 
     <details >
-      <summary><small>Abstract</small> <br><sub>R&R, <i>Draft available upon request</i></sub></summary>
+      <summary><small>Abstract</small> <br><sub>Revise & Resubmit</sub></summary>
       <sub> Pre-migration experiences with political regimes differ substantially among immigrants. However, surprisingly little is known about the extent to which these experiencing matter in structuring the stance of immigrants. Building on research of new democracies and political socialisation, I argue that (post-)authoritarian as opposed to established democratic socialisation lowers the degree to which positions are identified on abstract ideological issues, but less for specific policy items. Leveraging data from the European Social Survey and V-Dem, I test this argument by studying first-generation immigrants from (former) authoritarian and established democratic regimes, as well as nonimmigrants in thirteen European democracies. Employing exact matching as a pre-processing method, I find that immigrants from (post-)authoritarian regimes are less likely to identify their position on abstract ideological issues than non-immigrants, while differences are substantially small for specific policy items, which seems to be driven by lower political abilities and interest. Immigrants from established democracies map similarly to non-immigrants, but not concerning party identification. This study has important implications for the long-lasting effects of authoritarianism, but also for the representation and electoral potential of specific immigrant groups in the host country.
       </sub>
     </details>
@@ -48,7 +48,7 @@ author_profile: true
  <li> 
     The Paradox of Progressive Politics: Immigrant Support for Green Parties (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
     <details >
-     <summary><small>Abstract</small> <br><sub>Submitted for review, <i>Draft available upon request</i></sub></summary>
+     <summary><small>Abstract</small> <br><sub>Under review </sub></summary>
       <sub> Progressive parties often advocate pro-immigration policies but do not attract equal support from all immigrant groups. Why is this the case? This study examines immigrant behavior and their support for Green parties, a key progressive party family in Western Europe. Our findings reveal that immigrants from established democracies are more likely to support Green parties compared to those from (post-)authoritarian regimes. We attribute this disparity to socialization: Individuals from established democracies, where post-materialist values and environmental politics are more prominent, are more attuned to green issues. This heightened salience influences their political preferences after migration. Using entropy balancing on cross-national European surveys, we identify such a Green support gap and provide evidence for our proposed mechanism. These results inform debates on how cultural norms travel across political contexts and the socialization effects of political institutions. </sub>
     </details>
   </li>
@@ -56,7 +56,7 @@ author_profile: true
   <li> 
     When Policies Divide: The Effects of Face Veil Bans on Public Opinion (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
     <details >
-  <summary><small>Abstract</small> <br><sub><i>Draft available upon request</i></sub></summary>
+  <summary><small>Abstract</small> </summary>
       <sub> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of minorities. While most recent research on integration has focused on the consequences of intergroup contact, less is known about how voters react to these policies. We address this gap by studying how policies targeting ethnic minorities influence the electorate’s attitudes and behaviour. We argue that policies can signal who is considered a member of a polity and, thus, normalise more extreme antiimmigration and - integration positions. Studying the face veil ban in Ticino, Switzerland, we find that the adoption of the policy increased anti-migration and - integration voting. Using individual-level data, we find that the ban also increased negative attitudes towards Islam - the target of the policy. This has implications for how policies affect attitudes and behaviours towards minorities as well as for the cohesiveness of multicultural societies. </sub>
     </details>
   </li>
@@ -64,7 +64,7 @@ author_profile: true
   <li> 
      Communism and Redistribution Preferences: Evidence from an Experimental Online Game  
     <details >
-          <summary><small>Abstract</small> <br><sub><i>Draft available upon request</i></sub></summary>
+          <summary><small>Abstract</small> </summary>
       <sub> Under what circumstances do negative portrayals of communism lead to a backlash against redistribution? Building on literature of authoritarian legacies, I suggest that negatively depicting an authoritarian regime can affect
 policy preferences that are related to the authoritarian ideology. Hence, I hypothesise that priming participants with negative statements on the German Democratic Republic (GDR) should lower their support for redistribution, particularly if they are subject to redistribution. Employing a novel experimental game in Germany, I find that the negative primes of the GDR do, however, not generally decrease support for redistribution and their effect is also not conditioned on experiencing high levels of redistribution. Exploratory analyses reveal, however, that the effect of the prime was concealed. Priming participants on the GDR lowers support for redistribution only among participants who were outperformed, but not among those who were outperforming their opponents in the games. This study has not only implications for the field of authoritarian legacies and redistribution preferences, but also provides a novel attitudinal and behavioural approach to experimentally measure preferences.
       </sub>
