@@ -37,7 +37,7 @@ author_profile: true
  <li> 
       <a href="https://doi.org/10.31219/osf.io/et5b6_v1"> Political Socialization and Immigrants’ Support for Progressive Politics: The Case of Green Parties</a> (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
     <details >
-     <summary><small>Abstract</small> <br><sub>Revise & Resubmit at<i> Political Science Research and Methods </sub></summary>
+     <summary><small>Abstract</small> <br><sub>Revise & Resubmit at<i> Political Science Research and Methods</i> </sub></summary>
       <sub> Progressive parties often advocate pro-immigration policies but do not attract equal support from all immigrant groups. Why is this the case? This study examines immigrant behavior and their support for Green parties, a key progressive party family in Western Europe. Our findings reveal that immigrants from established democracies are more likely to support Green parties compared to those from (post-)authoritarian regimes. We attribute this disparity to socialization: Individuals from established democracies, where post-materialist values and environmental politics are more prominent, are more attuned to green issues. This heightened salience influences their political preferences after migration. Using entropy balancing on cross-national European surveys, we identify such a Green support gap and provide evidence for our proposed mechanism. These results inform debates on how cultural norms travel across political contexts and the socialization effects of political institutions. </sub>
     </details>
   </li>
