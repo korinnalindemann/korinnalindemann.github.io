@@ -57,7 +57,7 @@ author_profile: true
 
 
   <li> 
-   <a href="https://osf.io/preprints/osf/qjbzw_v1"> When Policies Divide: The Effects of Face Veil Bans on Voting Behavioury</a> (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
+   <a href="https://osf.io/preprints/osf/qjbzw_v1"> When Policies Divide: The Effects of Face Veil Bans on Voting Behaviour</a> (with <a href="https://antoniovalentim.github.io/"> António Valentim</a>) 
     <details >
   <summary><small>Abstract</small> <br><sub>Under review</sub></summary>
       <sub> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of minorities. While most recent research on integration has focused on the consequences of intergroup contact, less is known about how voters react to these policies. We address this gap by studying how policies targeting ethnic minorities influence the electorate’s attitudes and behaviour. We argue that policies can signal who is considered a member of a polity and, thus, normalise more extreme antiimmigration and - integration positions. Studying the face veil ban in Ticino, Switzerland, we find that the adoption of the policy increased anti-migration and - integration voting. Using individual-level data, we find that the ban also increased negative attitudes towards Islam - the target of the policy. This has implications for how policies affect attitudes and behaviours towards minorities as well as for the cohesiveness of multicultural societies. </sub>
