@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ### Undergraduate
+* **Seminar**: Misinformation and Misperceptions in the Context of Migration. University of Mannheim. Fall 2025.
 * **Seminar**: Political Behaviour in (Post-)Authoritarian Regimes. University of Mannheim. Spring 2025.
 * **Seminar**: Migration and Political Behaviour. University of Mannheim. Fall 2023, 2024.
 * **Seminar**: Living in (Post-) Authoritarian Regimes. University of Mannheim. Spring 2024.
