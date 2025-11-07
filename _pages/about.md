@@ -21,4 +21,4 @@ Feel free to contact me if you would like to connect and talk about projects, co
 
 <b>News</b>
 - Nov. 2025: I'm giving a presentation on intergenerational social mobility and political participation of immigrants (project w/ Iva Srbinovska) at the [Forum sur l'intégration](https://www.forum-integration.org/) in Montréal
-- Oct. 2025: Our paper Political Socialization and Immigrants’ Support for Progressive Politics: The Case of Green Parties (w/ António Valentim) got conditionally accepted at *Political Science Research and Methods*! 
+- Oct. 2025: Our paper *Political Socialization and Immigrants’ Support for Progressive Politics: The Case of Green Parties* (w/ António Valentim) got conditionally accepted at *Political Science Research and Methods*! 
