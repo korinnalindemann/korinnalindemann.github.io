@@ -16,7 +16,9 @@ My research interests focus on migration, comparative politics and political beh
 
 Feel free to contact me if you would like to connect and talk about projects, common interests or anything else at [korinna.lindemann@uni-mannheim.de](mailto:korinna.lindemann@uni-mannheim.de)! 
 
-**News**
-- November 2025: I'm giving a presentation on intergenerational social mobility and political participation of immigrants (project w/ Iva Srbinovska) at the Forum sur l'intégration in Montréal
-- October 2025: My paper Political Socialization and Immigrants’ Support for Progressive Politics: The Case of Green Parties (w/ António Valentim) got conditionally accepted at *Political Science Research and Methods*! 
-  
+
+
+
+<b>News</b>
+- Nov. 2025: I'm giving a presentation on intergenerational social mobility and political participation of immigrants (project w/ Iva Srbinovska) at the [Forum sur l'intégration in Montréal](https://www.forum-integration.org/)
+- Oct. 2025: Our paper Political Socialization and Immigrants’ Support for Progressive Politics: The Case of Green Parties (w/ António Valentim) got conditionally accepted at *Political Science Research and Methods*! 
