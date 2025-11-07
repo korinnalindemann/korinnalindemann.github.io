@@ -15,6 +15,8 @@ I completed my PhD in Political Science in the Research Training Group [DYNAMICS
 My research interests focus on migration, comparative politics and political behaviour using quantitative methods. In my dissertation, which was supervised by [Mark A. Kayser](http://mark-kayser.com/), I have worked mainly on the determinants of political behaviour of immigrants, where I was particularly interested in how characteristics of the regime in the country of origin influence behaviour in the host country. Besides working on effects of socialisation processes in authoritarian regimes, I am also interested in misperceptions surrounding the topic of migration and their effects on attitudes and behaviour. 
 
 Feel free to contact me if you would like to connect and talk about projects, common interests or anything else at [korinna.lindemann@uni-mannheim.de](mailto:korinna.lindemann@uni-mannheim.de)! 
-  
-  
+
+**News**
+- November 2025: I'm giving a presentation on intergenerational social mobility and political participation of immigrants (project w/ Iva Srbinovska) at the Forum sur l'intégration in Montréal
+- October 2025: My paper Political Socialization and Immigrants’ Support for Progressive Politics: The Case of Green Parties (w/ António Valentim) got conditionally accepted at *Political Science Research and Methods*! 
   
