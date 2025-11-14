@@ -90,6 +90,11 @@ policy preferences that are related to the authoritarian ideology. Hence, I hypo
 </li>
 
 <li>
+  Democratic values of immigrants from authoritarian regimes (with <a href="https://www.marc-helbling.ch/"> Marc Helbling</a>, <a href="https://mayantonia.github.io/"> Antonia C. May</a>, <a href="https://www.sandramorgenstern.com/"> Sandra Morgenstern</a> )
+
+</li>
+
+<li>
  Misperceptions of Immigration Policies: Bias, Information, and Implications
 
 </li>
