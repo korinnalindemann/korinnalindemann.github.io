@@ -65,7 +65,13 @@ author_profile: true
       <sub> Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of minorities. While most recent research on integration has focused on the consequences of intergroup contact, less is known about how voters react to these policies. We address this gap by studying how policies targeting ethnic minorities influence the electorate’s attitudes and behaviour. We argue that policies can signal who is considered a member of a polity and, thus, normalise more extreme antiimmigration and - integration positions. Studying the face veil ban in Ticino, Switzerland, we find that the adoption of the policy increased anti-migration and - integration voting. Using individual-level data, we find that the ban also increased negative attitudes towards Islam - the target of the policy. This has implications for how policies affect attitudes and behaviours towards minorities as well as for the cohesiveness of multicultural societies. </sub>
     </details>
   </li>
-
+<li>
+  Social Mobility and the Political Engagement of Second-Generation Migrants (with <a href="https://www.ipz.uzh.ch/en/people/employees/isrbin.html"> Iva Srbinovska</a>)
+ <details >
+  <summary><small>Abstract</small></summary>
+      <sub> How does intergenerational social mobility shape the political engagement of second-generation migrants? While political participation among second-generation immigrants is often attributed to assimilation and improved socio-economic status compared to their first-generation parents, the role of intergenerational mobility itself remains underexplored. Using crossnational surveys from 19 European countries and household survey data from Switzerland, we examine how upward and downward mobility influence different forms of political engagement for first- and second-generation immigrants, drawing on a resource-based model of participation and theories from the immigration literature. While we expect general upward and downward effects of social mobility, we argue that the political engagement of first-generation immigrants should be more strongly affected by status loss than second-generation immigrants due to selection into migration. While our results suggest that social moblity per se does not necessarly affect political engagement of second-generation immigrants and natives, we find negative effects of status loss for first-generation immigrants. Our study integrates social mobility into research on migrant political behavior and offers a cross-national perspective, with implications for understanding political participation among populations with a migration background. </sub>
+    </details>
+</li>
   <li> 
      Communism and Redistribution Preferences: Evidence from an Experimental Online Game  
     <details >
@@ -79,10 +85,7 @@ policy preferences that are related to the authoritarian ideology. Hence, I hypo
 
 ### In Progress (Selected)
 <ul>
-<li>
-  Upward Social Mobility and the Democratic Engagement of Second-Generation Migrants (with <a href="https://www.ipz.uzh.ch/en/people/employees/isrbin.html"> Iva Srbinovska</a>)
 
-</li>
 
 <li>
   Irregular immigration and support for the reintroduction of national border controls: Evidence from Germany (with <a href="https://lucas-schramm.eu/"> Lucas Schramm</a>)
