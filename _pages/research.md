@@ -98,8 +98,6 @@ policy preferences that are related to the authoritarian ideology. Hence, I hypo
 </li>
 
 <li>
- Misperceptions of Immigration Policies: Bias, Information, and Implications
-
-</li>
+ Shifting Narratives: Misperceptions and Factual Information on Immigration</li>
 
 </ul>
