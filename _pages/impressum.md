@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Contact"
-permalink: /contact/
+title: "Impressum"
+permalink: /impressum/
 author_profile: true
 ---
 ### Postal Address
