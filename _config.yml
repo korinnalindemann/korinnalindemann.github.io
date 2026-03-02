@@ -89,6 +89,7 @@ author:
   googlescholar    : "https://scholar.google.de/citations?hl=de&user=_bxzpV4AAAAJ"
   email            :  "korinna.lindemann@uni-mannheim.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bluesky          : "https://bsky.app/profile/korinlind.bsky.social"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "korinlind"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
