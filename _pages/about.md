@@ -18,7 +18,7 @@ Please feel free to contact me if you are interested in these about projects or 
 
 
 <b>News</b>
-- March 2026: I'm currently on a 1-month research stay (until mid April) at Concordia University in Montréal. 
+- March 2026: I'm currently on a 1-month research stay (until mid April) at Concordia University in Montréal 
 - Jan. 2026: I'm presenting our project of the public support for national border controls at the Swiss Political Science Conference
 - Nov. 2025: I'm giving a presentation on intergenerational social mobility and political participation of immigrants (project w/ Iva Srbinovska) at the [Forum sur l'intégration](https://www.forum-integration.org/) in Montréal
 <!-- *Political Socialization and Immigrants’ Support for Progressive Politics: The Case of Green Parties* (w/ António Valentim) got conditionally accepted at *Political Science Research and Methods*! -->
