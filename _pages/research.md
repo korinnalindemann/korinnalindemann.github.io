@@ -64,11 +64,16 @@ author_profile: true
       <sub>Under what circumstances do negative portrayals of communism lead to a backlash against redistribution? Building on literature of authoritarian legacies, I suggest that negatively depicting an authoritarian regime can affect policy preferences that are related to the authoritarian ideology. Hence, I hypothesise that priming participants with negative statements on the German Democratic Republic (GDR) should lower their support for redistribution, particularly if they are subject to redistribution. Employing a novel experimental game in Germany, I find that the negative primes of the GDR do, however, not generally decrease support for redistribution and their effect is also not conditioned on experiencing high levels of redistribution. Exploratory analyses reveal, however, that the effect of the prime was concealed. Priming participants on the GDR lowers support for redistribution only among participants who were outperformed, but not among those who were outperforming their opponents in the games. This study has not only implications for the field of authoritarian legacies and redistribution preferences, but also provides a novel attitudinal and behavioural approach to experimentally measure preferences.</sub>
     </details>
   </li>
+    <li>Public support for the reintroduction of national border controls: Evidence from Germany (with <a href="https://lucas-schramm.eu/">Lucas Schramm</a>)</li>
+ <details>
+      <summary><small>Abstract</small></summary>
+    Many citizens simultaneously support border-free travel within the Schengen area and the reintroduction of national border controls. In this paper, we argue that this apparent contradiction can be understood by treating public opinion on borders as conditional, context dependent, and responsive to both institutional knowledge and concrete policy trade-offs. Methodologically, we conduct an original survey in Ger-many and combine an information provision experiment with a conjoint experiment. The findings show that information modestly increases support for Schengen and reduces support for national border controls, while the reduction of irregular immi-gration and harmful economic consequences emerge as the most important drivers when evaluating trade-offs of national border controls. The paper contributes to re-search on borders, European integration, and public opinion by showing that atti-tudes toward border controls are structured, conditional, and open to informational correction.
+   </details>
 </ul>
 
 <h3>In Progress (Selected)</h3>
 <ul>
-  <li>Irregular immigration and support for the reintroduction of national border controls: Evidence from Germany (with <a href="https://lucas-schramm.eu/">Lucas Schramm</a>)</li>
+
   <li>Democratic values of immigrants from authoritarian regimes (with <a href="https://www.marc-helbling.ch/">Marc Helbling</a>, <a href="https://mayantonia.github.io/">Antonia C. May</a>, <a href="https://www.sandramorgenstern.com/">Sandra Morgenstern</a>)</li>
   <li>Shifting Narratives: Misperceptions and Factual Information on Immigration</li>
 </ul>
