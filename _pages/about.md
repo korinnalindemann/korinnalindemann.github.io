@@ -18,7 +18,7 @@ Methodologically, I employ causal inference approaches and experiments. Some of 
 
 <!-- My research interests focus on migration, comparative politics and political behaviour using quasi-experimental and experimental methods. Most of my research addresses a central question for contemporary democracies: What shapes attitudes and political behaviour in times of diversity? More precisely, my research seeks to 1) understand the dynamics of the political behaviour of immigrants with a particular focus on cultural transmission and 2) the political behaviour of the broader public - often, but not exclusively, through the lens of immigration. Some of my work is published in *Political Science Research and Methods* and *Electoral Studies*. -->
 
-Please feel free to contact me if you are interested in these about projects or common interests at [korinna.lindemann@uni-mannheim.de](mailto:korinna.lindemann@uni-mannheim.de)! 
+Please feel free to contact me if you are interested in these projects or common interests at [korinna.lindemann@uni-mannheim.de](mailto:korinna.lindemann@uni-mannheim.de)! 
 
 
 
