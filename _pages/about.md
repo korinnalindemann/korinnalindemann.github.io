@@ -14,7 +14,7 @@ My research interests focus on migration, comparative politics and political beh
 
 Please feel free to contact me if you are interested in these projects or common interests at [korinna.lindemann@uni-mannheim.de](mailto:korinna.lindemann@uni-mannheim.de)! 
 
-<b> I am looking for a PhD Student to work with me in Mannheim for my DFG project on migration-related misperceptions and factual information ([Job Ad](https://www.uni-mannheim.de/media/Universitaet/Dokumente/Ausschreibungen_Stellenanzeigen/MZES_AB-A_Lindemann.pdf)). Apply until 21st of July! </b>
+<b> I am looking for a PhD Student to work with me in Mannheim in my DFG project on migration-related misperceptions and factual information ([Job Ad](https://www.uni-mannheim.de/media/Universitaet/Dokumente/Ausschreibungen_Stellenanzeigen/MZES_AB-A_Lindemann.pdf)). Apply until 21st of July! </b>
 
 
 <b>News</b>
