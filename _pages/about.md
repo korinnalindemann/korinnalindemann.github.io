@@ -12,7 +12,7 @@ I am a Postdoctoral Researcher at the [University of Geneva](https://www.unige.c
 
 My research interests focus on migration, comparative politics and political behaviour using quasi-experimental and experimental methods. Most of my research addresses a central question for contemporary democracies: What shapes attitudes and political behaviour in times of diversity? More precisely, my research seeks to 1) understand the dynamics of the political behaviour of immigrants with a particular focus on socialisation and cultural transmission and 2) the political behaviour of the broader public - often, but not exclusively, through the lens of immigration. Some of my work is published in *Political Science Research and Methods* and *Electoral Studies*.
 
-Please feel free to contact me if you are interested in these projects or common interests at [korinna.lindemann@uni-mannheim.de](mailto:korinna.lindemann@uni-mannheim.de)! 
+Feel free to contact me if you are interested in one of these projects or to talk about common interests at [korinna.lindemann[at]unige.ch](mailto:korinna.lindemann@unige.ch) or [korinna.lindemann[at]uni-mannheim.de](mailto:korinna.lindemann@uni-mannheim.de). 
 
 <b> I am looking for a PhD Student to work with me in Mannheim in my DFG project on migration-related misperceptions and factual information ([Job Ad](https://www.uni-mannheim.de/media/Universitaet/Dokumente/Ausschreibungen_Stellenanzeigen/MZES_AB-A_Lindemann.pdf)). Apply until 21st of July! </b>
 
