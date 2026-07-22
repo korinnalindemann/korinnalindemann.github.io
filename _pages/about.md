@@ -14,11 +14,9 @@ My research interests focus on migration, comparative politics and political beh
 
 Feel free to contact me if you are interested in one of these projects or to talk about common interests at [korinna.lindemann[at]unige.ch](mailto:korinna.lindemann@unige.ch) or [korinna.lindemann[at]uni-mannheim.de](mailto:korinna.lindemann@uni-mannheim.de). 
 
-<b> I am looking for a PhD Student to work with me in Mannheim in my DFG project on migration-related misperceptions and factual information ([Job Ad](https://www.uni-mannheim.de/media/Universitaet/Dokumente/Ausschreibungen_Stellenanzeigen/MZES_AB-A_Lindemann.pdf)). Apply until 21st of July! </b>
-
 
 <b>News</b>
-- June 2026: A couple of weeks ago, I received funding from the DFG for my three-year project on migration-related misperceptions and how factual information affects political behaviour! 
+- June 2026: A couple of weeks ago, I received the great news that I have received funding from the DFG for my three-year project on migration-related misperceptions and how factual information affects political behaviour! 
 - June 2026: Conference participation at EPSS in Belfast 
 - March 2026: I'm currently on a 1-month research stay (until mid April) at Concordia University in Montréal 
 <!-- *Political Socialization and Immigrants’ Support for Progressive Politics: The Case of Green Parties* (w/ António Valentim) got conditionally accepted at *Political Science Research and Methods*! -->
