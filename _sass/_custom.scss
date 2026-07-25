@@ -1,0 +1,46 @@
+/* ==========================================================================
+   CUSTOM (modern reskin overrides — kept separate from vendor partials)
+   ========================================================================== */
+
+/* Slightly more spacious body copy */
+p, li {
+  line-height: 1.6;
+}
+
+/* Heading hierarchy via weight/spacing instead of a second typeface */
+.page__content,
+.page__title {
+  h1, h2, h3 {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+}
+
+/* Masthead: more breathing room */
+.masthead__inner-wrap {
+  padding: 1.5em 1.5em;
+}
+
+/* Archive & portfolio listing cards: lifted, clickable feel */
+.archive__item {
+  padding: 0.5em;
+  border-radius: $border-radius;
+  transition: $global-transition;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: $box-shadow;
+  }
+}
+
+.archive__item-teaser {
+  border: 1px solid $border-color;
+}
+
+/* Author sidebar: match the new card language */
+.sidebar {
+  border-radius: $border-radius;
+  border: 1px solid $border-color;
+  box-shadow: $box-shadow;
+  padding: 1em;
+}
