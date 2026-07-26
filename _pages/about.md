@@ -16,7 +16,8 @@ Feel free to contact me if you are interested in one of these projects or to tal
 
 
 <b>News</b>
+- July 2026: I started a new job as a Postdoc at the University of Geneva. I continue working at the MZES as well, where I'll lead my DFG project among other things.
 - June 2026: A couple of weeks ago, I received the great news that I have received funding from the DFG for my three-year project on migration-related misperceptions and how factual information affects political behaviour! 
 - June 2026: Conference participation at EPSS in Belfast 
-- March 2026: I'm currently on a 1-month research stay (until mid April) at Concordia University in Montréal 
+<!-- - March 2026: I'm currently on a 1-month research stay (until mid April) at Concordia University in Montréal -->
 <!-- *Political Socialization and Immigrants’ Support for Progressive Politics: The Case of Green Parties* (w/ António Valentim) got conditionally accepted at *Political Science Research and Methods*! -->
