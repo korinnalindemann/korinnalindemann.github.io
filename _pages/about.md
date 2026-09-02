@@ -16,6 +16,6 @@ Feel free to contact me if you are interested in one of these projects or to tal
 
 
 <b>News</b>
-- New Preprint on attitudes toward national border controls available [here](https://doi.org/10.31235/osf.io/ynsje_v1).
+- August 2026: New Preprint on attitudes toward national border controls available [here](https://doi.org/10.31235/osf.io/ynsje_v1).
 -  July 19, 2026: The Summer School for Women* in Political Methodology has started, happy to be part of the organising team!
 - July 2026: I started a new job as a Postdoc at the University of Geneva in an SNSF project on electoral choice and quality evaluations of politicians. I continue working at the MZES as well, where I'll lead my DFG project among other things.
