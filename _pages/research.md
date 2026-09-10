@@ -82,7 +82,6 @@ author_profile: true
 <h3>In Progress (Selected)</h3>
 <ul>
 
-  <li>How democratic are they? Biased public perceptions about immigrants from authoritarian regimes (with Marc Helbling,
-Antonia C. May, Sandra Morgenstern, Conrad Ziller)(with <a href="https://www.marc-helbling.ch/">Marc Helbling</a>, <a href="https://mayantonia.github.io/">Antonia C. May</a>, <a href="https://www.sandramorgenstern.com/">Sandra Morgenstern</a>, <a href = "https://conradziller.com/">Conrad Ziller </a>)</li>
+  <li>How democratic are they? Biased public perceptions about immigrants from authoritarian regimes (with <a href="https://www.marc-helbling.ch/">Marc Helbling</a>, <a href="https://mayantonia.github.io/">Antonia C. May</a>, <a href="https://www.sandramorgenstern.com/">Sandra Morgenstern</a>, <a href = "https://conradziller.com/">Conrad Ziller </a>)</li>
   <li>Shifting Narratives: Misperceptions and Factual Information on Immigration</li>
 </ul>
