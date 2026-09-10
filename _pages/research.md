@@ -27,7 +27,7 @@ author_profile: true
   </li>
 </ul>
 
-<h3>Submitted Papers (Drafts available upon request)</h3>
+<h3>Submitted Papers </h3>
 <ul>
   <li>
     What is my Opinion? Immigrants, (Post-)Authoritarianism and Ideological Positioning
@@ -47,7 +47,7 @@ author_profile: true
 
   </ul>
   
-  <h3>Working Papers (Drafts available upon request)</h3>
+  <h3>Working Papers </h3>
   <ul>
   <li>
     <a href="https://doi.org/10.31219/osf.io/vyfcm">Lingering Memories of the Past? The Ideological Behaviour of Immigrants Socialised in Authoritarian Regimes</a>
