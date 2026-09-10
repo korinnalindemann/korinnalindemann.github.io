@@ -38,7 +38,6 @@ author_profile: true
     </details>
   </li>
       <li><a href="https://doi.org/10.31235/osf.io/ynsje_v1"> Public support for the reintroduction of national border controls: Evidence from Germany</a> (with <a href="https://lucas-schramm.eu/">Lucas Schramm</a>)
-    
        <details>
       <summary><small>Abstract</small> </summary>
     Many citizens simultaneously support border-free travel within the Schengen area and the reintroduction of national border controls. In this paper, we argue that this apparent contradiction can be understood by treating public opinion on borders as conditional, context dependent, and responsive to both institutional knowledge and concrete policy trade-offs. Methodologically, we conduct an original survey in Ger-many and combine an information provision experiment with a conjoint experiment. The findings show that information modestly increases support for Schengen and reduces support for national border controls, while the reduction of irregular immi-gration and harmful economic consequences emerge as the most important drivers when evaluating trade-offs of national border controls. The paper contributes to re-search on borders, European integration, and public opinion by showing that atti-tudes toward border controls are structured, conditional, and open to informational correction.
