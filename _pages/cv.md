@@ -10,6 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](../files/cv_july.pdf).
+You can download my CV [here](../files/CV_Sep26.pdf).
 
 
