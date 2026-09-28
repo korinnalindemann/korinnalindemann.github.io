@@ -42,7 +42,11 @@ author_profile: true
       <summary><small>Abstract</small> </summary>
     Many citizens simultaneously support border-free travel within the Schengen area and the reintroduction of national border controls. In this paper, we argue that this apparent contradiction can be understood by treating public opinion on borders as conditional, context dependent, and responsive to both institutional knowledge and concrete policy trade-offs. Methodologically, we conduct an original survey in Ger-many and combine an information provision experiment with a conjoint experiment. The findings show that information modestly increases support for Schengen and reduces support for national border controls, while the reduction of irregular immi-gration and harmful economic consequences emerge as the most important drivers when evaluating trade-offs of national border controls. The paper contributes to re-search on borders, European integration, and public opinion by showing that atti-tudes toward border controls are structured, conditional, and open to informational correction.
    </details>
+          <li>How democratic are they? Biased public perceptions about immigrants from authoritarian regimes (with <a href="https://www.marc-helbling.ch/">Marc Helbling</a>, <a href="https://mayantonia.github.io/">Antonia C. May</a>, <a href="https://www.sandramorgenstern.com/">Sandra Morgenstern</a>, <a href = "https://conradziller.com/">Conrad Ziller </a>)</li>
         </li>
+  <details>
+      <summary><small>Abstract</small> </summary>
+        While immigrants from authoritarian regimes report similar levels of democratic values to those of other immigrants and non-immigrants, little is known about how the public perceives their attitudes to democracy. Drawing on theories of symbolic threat, political socialisation, and dual-process theory, we argue that the public relies on simplified cues from an immigrant’s past, to form these perceptions. Conducting two vignette studies in Germany with each sample around N=2500, we find that people judge immigrants’ democratic values based on how long they have lived in a democracy, rather than the age at which they migrated. We also show that people with stronger anti-immigrant attitudes are more likely to rely on stereotypes, which can widen the gap between perceived and actual democratic values and reinforce prejudice. However, both anti- and pro-immigration respondents believe that immigrants become more democratic the longer they stay in a democratic destination, showing a shared belief in adaptation.   </details>
 
   </ul>
   
@@ -82,6 +86,6 @@ author_profile: true
 <h3>In Progress (Selected)</h3>
 <ul>
 
-  <li>How democratic are they? Biased public perceptions about immigrants from authoritarian regimes (with <a href="https://www.marc-helbling.ch/">Marc Helbling</a>, <a href="https://mayantonia.github.io/">Antonia C. May</a>, <a href="https://www.sandramorgenstern.com/">Sandra Morgenstern</a>, <a href = "https://conradziller.com/">Conrad Ziller </a>)</li>
+  <li>The Democratic Immigrant: A Comparative Study of Value Self-Selection (with <a href="https://www.marc-helbling.ch/">Marc Helbling</a>, <a href="https://mayantonia.github.io/">Antonia C. May</a>, <a href="https://www.sandramorgenstern.com/">Sandra Morgenstern</a>)</li>
   <li>Shifting Narratives: Misperceptions and Factual Information on Immigration</li>
 </ul>
