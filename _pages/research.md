@@ -27,7 +27,7 @@ author_profile: true
   </li>
 </ul>
 
-<h3>Under Review </h3>
+<h3>Submitted/Under Review </h3>
 <ul>
   <li>
     What is my Opinion? Immigrants, (Post-)Authoritarianism and Ideological Positioning
