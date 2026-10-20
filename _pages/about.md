@@ -25,5 +25,5 @@ Feel free to contact me if you are interested in one of these projects or to tal
 - November 2, 2026: I'm giving a talk at the Monday Seminar Series at Trinity College in Dublin.
 - October 2026: My DFG-funded project "Shifting Narratives: Misperceptions and Factual Information on Immigration" has officially started!
 - August 2026: New Preprint on attitudes toward national border controls available [here](https://doi.org/10.31235/osf.io/ynsje_v1).
--  July 19, 2026: The Summer School for Women* in Political Methodology has started, happy to be part of the organising team!
+
 
