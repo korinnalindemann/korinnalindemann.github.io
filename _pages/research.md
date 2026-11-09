@@ -8,12 +8,12 @@ author_profile: true
 
 <h3>Publications</h3>
 <ul>
-   <li>
+  <li>
     Pre-Migration Contexts and the Ideological Self-Placement of Immigrants
     <br><small>Conditionally Accepted at <i>European Journal of Political Research</i></small>
-      <details>
-      <summary><small>Abstract</small> </summary>
-      <sub>Pre-migration experiences with political regimes differ substantially among immigrants. However, surprisingly little is known about the extent to which these experiencing matter in structuring the stance of immigrants. Building on research of new democracies and political socialisation, I argue that (post-)authoritarian as opposed to established democratic socialisation lowers the degree to which positions are identified on abstract ideological issues, but less for specific policy items. Leveraging data from the European Social Survey and V-Dem, I test this argument by studying first-generation immigrants from (former) authoritarian and established democratic regimes, as well as nonimmigrants in thirteen European democracies. Employing exact matching as a pre-processing method, I find that immigrants from (post-)authoritarian regimes are less likely to identify their position on abstract ideological issues than non-immigrants, while differences are substantially small for specific policy items, which seems to be driven by lower political abilities and interest. Immigrants from established democracies map similarly to non-immigrants, but not concerning party identification. This study has important implications for the long-lasting effects of authoritarianism, but also for the representation and electoral potential of specific immigrant groups in the host country.</sub>
+    <details>
+      <summary><small>Abstract</small></summary>
+      <sub>Pre-migration experiences with political regimes differ substantially among immigrants. However, surprisingly little is known about the extent to which these experiences matter in structuring the stance of immigrants. Building on research of new democracies and political socialisation, I argue that (post-)authoritarian as opposed to established democratic socialisation lowers the degree to which positions are identified on abstract ideological issues, but less for specific policy items. Leveraging data from the European Social Survey and V-Dem, I test this argument by studying first-generation immigrants from (former) authoritarian and established democratic regimes, as well as non-immigrants in thirteen European democracies. Employing exact matching as a pre-processing method, I find that immigrants from (post-)authoritarian regimes are less likely to identify their position on abstract ideological issues than non-immigrants, while differences are substantially small for specific policy items, which seems to be driven by lower political abilities and interest. Immigrants from established democracies map similarly to non-immigrants, but not concerning party identification. This study has important implications for the long-lasting effects of authoritarianism, but also for the representation and electoral potential of specific immigrant groups in the host country.</sub>
     </details>
   </li>
   <li>
@@ -28,7 +28,7 @@ author_profile: true
   <li>
     <a href="https://doi.org/10.1016/j.electstud.2020.102243">The effect of televised candidate debates on the support for political parties</a> (with <a href="https://www.lukas-stoetzer.org/">Lukas F. Stoetzer</a>)
     <br><small><i>Electoral Studies</i> (2021) <a href="https://opus4.kobv.de/opus4-hsog/frontdoor/deliver/index/docId/5438/file/LindemannStoetzer_TVCandidateDebates_acceptedv.pdf">Accepted/Open Access Version</a></small>
-  <details>
+    <details>
       <summary><small>Abstract</small></summary>
       <sub>During campaigns for legislative elections, a large portion of the general public follows televised debates between the front-running candidates. How can the candidates use the public interest in the debates to increase the support for their party? In this article, we argue that especially challenger candidates can improve the public perception of their valence qualities, such as personal integrity, leadership, and competence, and can - as a result - raise the support of their party. We expect that the perceived policy stances of the candidates matter less. Building on televised debate experiments during the German Federal Elections of 2009 and 2013, we analyse the effect of the debates on party vote and in how far this relationship is mediated by changes in valence and policy evaluations of the candidates. Results show that changes of candidate valence, but not changes in policy perceptions, of the social-democratic front-running candidates mediate the vote intention for the party. Respondents who perceived the candidates more competent, empathetic and have integrity as a result of the debate are more likely to vote for the candidate's party. Our analysis further reveals, however, that this valence effect is not long-lasting and does not carry-over to vote intention briefly before the election.</sub>
     </details>
@@ -36,21 +36,24 @@ author_profile: true
 </ul>
 
 
-  
-  <h3>Working Papers </h3>
-  <ul>
-       <li><a href="https://doi.org/10.31235/osf.io/ynsje_v1"> Public support for the reintroduction of national border controls: Evidence from Germany</a> (with <a href="https://lucas-schramm.eu/">Lucas Schramm</a>)
-         <br><small>Under Review</i></small>
-          <details>
-      <summary><small>Abstract</small> </summary>
-    Many citizens simultaneously support border-free travel within the Schengen area and the reintroduction of national border controls. In this paper, we argue that this apparent contradiction can be understood by treating public opinion on borders as conditional, context dependent, and responsive to both institutional knowledge and concrete policy trade-offs. Methodologically, we conduct an original survey in Ger-many and combine an information provision experiment with a conjoint experiment. The findings show that information modestly increases support for Schengen and reduces support for national border controls, while the reduction of irregular immi-gration and harmful economic consequences emerge as the most important drivers when evaluating trade-offs of national border controls. The paper contributes to re-search on borders, European integration, and public opinion by showing that atti-tudes toward border controls are structured, conditional, and open to informational correction.
-   </details>
-          <li>How democratic are they? Biased public perceptions about immigrants from authoritarian regimes (with <a href="https://www.marc-helbling.ch/">Marc Helbling</a>, <a href="https://mayantonia.github.io/">Antonia C. May</a>, <a href="https://www.sandramorgenstern.com/">Sandra Morgenstern</a>, <a href = "https://conradziller.com/">Conrad Ziller </a>)</li>
-    <br><small>Under Review</i></small>
-  <details>
-      <summary><small>Abstract</small> </summary>
-        While immigrants from authoritarian regimes report similar levels of democratic values to those of other immigrants and non-immigrants, little is known about how the public perceives their attitudes to democracy. Drawing on theories of symbolic threat, political socialisation, and dual-process theory, we argue that the public relies on simplified cues from an immigrant’s past, to form these perceptions. Conducting two vignette studies in Germany with each sample around N=2500, we find that people judge immigrants’ democratic values based on how long they have lived in a democracy, rather than the age at which they migrated. We also show that people with stronger anti-immigrant attitudes are more likely to rely on stereotypes, which can widen the gap between perceived and actual democratic values and reinforce prejudice. However, both anti- and pro-immigration respondents believe that immigrants become more democratic the longer they stay in a democratic destination, showing a shared belief in adaptation.   </details>
-
+<h3>Working Papers</h3>
+<ul>
+  <li>
+    <a href="https://doi.org/10.31235/osf.io/ynsje_v1">Public support for the reintroduction of national border controls: Evidence from Germany</a> (with <a href="https://lucas-schramm.eu/">Lucas Schramm</a>)
+    <br><small>Under Review</small>
+    <details>
+      <summary><small>Abstract</small></summary>
+      <sub>Many citizens simultaneously support border-free travel within the Schengen area and the reintroduction of national border controls. In this paper, we argue that this apparent contradiction can be understood by treating public opinion on borders as conditional, context dependent, and responsive to both institutional knowledge and concrete policy trade-offs. Methodologically, we conduct an original survey in Germany and combine an information provision experiment with a conjoint experiment. The findings show that information modestly increases support for Schengen and reduces support for national border controls, while the reduction of irregular immigration and harmful economic consequences emerge as the most important drivers when evaluating trade-offs of national border controls. The paper contributes to research on borders, European integration, and public opinion by showing that attitudes toward border controls are structured, conditional, and open to informational correction.</sub>
+    </details>
+  </li>
+  <li>
+    How democratic are they? Biased public perceptions about immigrants from authoritarian regimes (with <a href="https://www.marc-helbling.ch/">Marc Helbling</a>, <a href="https://mayantonia.github.io/">Antonia C. May</a>, <a href="https://www.sandramorgenstern.com/">Sandra Morgenstern</a>, <a href="https://conradziller.com/">Conrad Ziller</a>)
+    <br><small>Under Review</small>
+    <details>
+      <summary><small>Abstract</small></summary>
+      <sub>While immigrants from authoritarian regimes report similar levels of democratic values to those of other immigrants and non-immigrants, little is known about how the public perceives their attitudes to democracy. Drawing on theories of symbolic threat, political socialisation, and dual-process theory, we argue that the public relies on simplified cues from an immigrant’s past to form these perceptions. Conducting two vignette studies in Germany with each sample around N=2500, we find that people judge immigrants’ democratic values based on how long they have lived in a democracy, rather than the age at which they migrated. We also show that people with stronger anti-immigrant attitudes are more likely to rely on stereotypes, which can widen the gap between perceived and actual democratic values and reinforce prejudice. However, both anti- and pro-immigration respondents believe that immigrants become more democratic the longer they stay in a democratic destination, showing a shared belief in adaptation.</sub>
+    </details>
+  </li>
   <li>
     <a href="https://doi.org/10.31219/osf.io/vyfcm">Lingering Memories of the Past? The Ideological Behaviour of Immigrants Socialised in Authoritarian Regimes</a>
     <details>
@@ -62,14 +65,14 @@ author_profile: true
     <a href="https://osf.io/preprints/osf/qjbzw_v1">When Policies Divide: The Effects of Face Veil Bans on Voting Behaviour</a> (with <a href="https://antoniovalentim.github.io/">António Valentim</a>)
     <details>
       <summary><small>Abstract</small></summary>
-      <sub>Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of minorities. While most recent research on integration has focused on the consequences of intergroup contact, less is known about how voters react to these policies. We address this gap by studying how policies targeting ethnic minorities influence the electorate's attitudes and behaviour. We argue that policies can signal who is considered a member of a polity and, thus, normalise more extreme antiimmigration and - integration positions. Studying the face veil ban in Ticino, Switzerland, we find that the adoption of the policy increased anti-migration and - integration voting. Using individual-level data, we find that the ban also increased negative attitudes towards Islam - the target of the policy. This has implications for how policies affect attitudes and behaviours towards minorities as well as for the cohesiveness of multicultural societies.</sub>
+      <sub>Do voters react to policies targeting ethnic minorities? Governments in Western democracies have recently taken restrictive stances on migration and the integration of minorities. While most recent research on integration has focused on the consequences of intergroup contact, less is known about how voters react to these policies. We address this gap by studying how policies targeting ethnic minorities influence the electorate's attitudes and behaviour. We argue that policies can signal who is considered a member of a polity and, thus, normalise more extreme anti-immigration and anti-integration positions. Studying the face veil ban in Ticino, Switzerland, we find that the adoption of the policy increased anti-migration and anti-integration voting. Using individual-level data, we find that the ban also increased negative attitudes towards Islam - the target of the policy. This has implications for how policies affect attitudes and behaviours towards minorities as well as for the cohesiveness of multicultural societies.</sub>
     </details>
   </li>
   <li>
     Social Mobility and the Political Engagement of Second-Generation Migrants (with <a href="https://www.ipz.uzh.ch/en/people/employees/isrbin.html">Iva Srbinovska</a>)
     <details>
       <summary><small>Abstract</small></summary>
-      <sub>How does intergenerational social mobility shape the political engagement of second-generation migrants? While political participation among second-generation immigrants is often attributed to assimilation and improved socio-economic status compared to their first-generation parents, the role of intergenerational mobility itself remains underexplored. Using crossnational surveys from 19 European countries and household survey data from Switzerland, we examine how upward and downward mobility influence different forms of political engagement for first- and second-generation immigrants, drawing on a resource-based model of participation and theories from the immigration literature. While we expect general upward and downward effects of social mobility, we argue that the political engagement of first-generation immigrants should be more strongly affected by status loss than second-generation immigrants due to selection into migration. While our results suggest that social moblity per se does not necessarly affect political engagement of second-generation immigrants and natives, we find negative effects of status loss for first-generation immigrants. Our study integrates social mobility into research on migrant political behavior and offers a cross-national perspective, with implications for understanding political participation among populations with a migration background.</sub>
+      <sub>How does intergenerational social mobility shape the political engagement of second-generation migrants? While political participation among second-generation immigrants is often attributed to assimilation and improved socio-economic status compared to their first-generation parents, the role of intergenerational mobility itself remains underexplored. Using cross-national surveys from 19 European countries and household survey data from Switzerland, we examine how upward and downward mobility influence different forms of political engagement for first- and second-generation immigrants, drawing on a resource-based model of participation and theories from the immigration literature. While we expect general upward and downward effects of social mobility, we argue that the political engagement of first-generation immigrants should be more strongly affected by status loss than second-generation immigrants due to selection into migration. While our results suggest that social mobility per se does not necessarily affect political engagement of second-generation immigrants and natives, we find negative effects of status loss for first-generation immigrants. Our study integrates social mobility into research on migrant political behavior and offers a cross-national perspective, with implications for understanding political participation among populations with a migration background.</sub>
     </details>
   </li>
   <li>
@@ -79,12 +82,10 @@ author_profile: true
       <sub>Under what circumstances do negative portrayals of communism lead to a backlash against redistribution? Building on literature of authoritarian legacies, I suggest that negatively depicting an authoritarian regime can affect policy preferences that are related to the authoritarian ideology. Hence, I hypothesise that priming participants with negative statements on the German Democratic Republic (GDR) should lower their support for redistribution, particularly if they are subject to redistribution. Employing a novel experimental game in Germany, I find that the negative primes of the GDR do, however, not generally decrease support for redistribution and their effect is also not conditioned on experiencing high levels of redistribution. Exploratory analyses reveal, however, that the effect of the prime was concealed. Priming participants on the GDR lowers support for redistribution only among participants who were outperformed, but not among those who were outperforming their opponents in the games. This study has not only implications for the field of authoritarian legacies and redistribution preferences, but also provides a novel attitudinal and behavioural approach to experimentally measure preferences.</sub>
     </details>
   </li>
-
 </ul>
 
 <h3>In Progress (Selected)</h3>
 <ul>
-
   <li>The Democratic Immigrant: A Comparative Study of Value Self-Selection (with <a href="https://www.marc-helbling.ch/">Marc Helbling</a>, <a href="https://mayantonia.github.io/">Antonia C. May</a>, <a href="https://www.sandramorgenstern.com/">Sandra Morgenstern</a>)</li>
   <li>Shifting Narratives: Misperceptions and Factual Information on Immigration</li>
 </ul>
